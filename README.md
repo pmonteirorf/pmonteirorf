@@ -1,7 +1,7 @@
 # Hi, I'm Priscilla! :smile:
 
 
-:heart: Apaixonada por Teconologia
+:heart: Apaixonada por Tecnologia
 
 :computer: Desenvolvedora Back-End e curiosa em Front-End
 
